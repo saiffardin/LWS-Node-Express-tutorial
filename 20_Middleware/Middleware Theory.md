@@ -10,7 +10,7 @@
 
 > * erokom kore bininno function a ghurar por amader http client kase response ta jaai
 
-> * j kono middleware j kono shomoy **response** k call kore dite pare. Eta korle oi moiddleware er por porer middleware call na hoye direct 'http client' er kase response chole jabe
+> * j kono middleware j kono shomoy **response** k call kore dite pare. Eta korle oi middleware er por porer middleware call na hoye direct 'http client' er kase response chole jabe
 
 > * echarao j kono milldeware chaile 'error' throw korte pare... ejonno amader akta 'error handling' middleware lagbe, eita kono middleware error throw korle shetake 'catch' kore handle kore then 'http client' k response pathai dibe
 

@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 });
 
 // server ta active holo 3000 port a
-// list korar por callback function takey call korbe
+// listen korar por callback function takey call korbe
 app.listen(3000, () => {
     console.log('listening to port 3000');
 });
